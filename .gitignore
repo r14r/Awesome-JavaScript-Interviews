@@ -86,3 +86,6 @@ performance-1.js
 **/*-test.ipynb
 **/*-test.md
 **/*-test.json
+**/.env.d
+**/.env
+
